@@ -106,11 +106,15 @@ $$F = \frac{MS_{Between}}{MS_{Within}}$$
 - Mean difference: ~23 cm | 95% CI: (22.76, 23.09)
 - **Cohen's d = 5.94** - an extraordinary effect size, confirming basketball's fundamental positional height stratification
 
+![RQ1 Height Distribution](images/rq1_height_distribution.png)
+
 ### RQ2 - BMI: High Scorers vs. Low Scorers
 - **High scorers** (≥20 PPG): mean BMI = 25.10, n = 713
 - **Low scorers** (<10 PPG): mean BMI = 24.86, n = 7,671
 - Statistically significant (p < 0.001), but **Cohen's d = 0.13** - practically negligible
 - Usage rate (r = +0.82 with PPG) is a far stronger predictor of scoring than body composition
+
+![RQ2 BMI Distribution](images/rq2_bmi_distribution.png)
 
 ### RQ3 - PPG Across Age Groups
 | Age Group | n | Mean PPG | SD |
@@ -122,6 +126,8 @@ $$F = \frac{MS_{Between}}{MS_{Within}}$$
 - Tukey HSD confirmed: 26–30 differs significantly from both 18–25 (Δμ = 1.37) and 31+ (Δμ = 1.50)
 - 18–25 vs. 31+ was **not** significantly different (Δμ = 0.13)
 - η² = 0.013 - age is statistically significant but explains only **1.3%** of scoring variance
+
+![RQ3 PPG Across Age Groups](images/rq3_ppg_age_groups.png)
 
 ---
 
