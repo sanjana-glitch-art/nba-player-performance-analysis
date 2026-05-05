@@ -42,6 +42,11 @@ nba-player-performance-analysis/
 │
 ├── NBA_data_hypothesis.py     # Full analysis notebook
 │
+├── images/
+│   ├── rq1_height_distribution.png
+│   ├── rq2_bmi_distribution.png
+│   └── rq3_ppg_age_groups.png
+│
 └── README.md
 ```
 
